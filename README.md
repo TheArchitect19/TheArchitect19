@@ -37,4 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-eth&show_icons=true&locale=en" alt="ayush-eth" /></p>
 
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/Ayush-eth/Ayush-eth/blob/output/github-contribution-grid-snake.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Ayush-eth/snakegame/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Ayush-eth/snakegame/output/github-contribution-grid-snake.svg#gh-light-mode-only)
