@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A passionate developer and cp lover</h3>
+<h3 align="center">A Competitive Programmer and a Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-eth&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-eth" /> </p>
 
