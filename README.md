@@ -37,6 +37,14 @@
 <p><img align="left" src="https://stats.quine.sh/TheArchitect19/github?theme=light" alt="ayush-eth" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheArchitect19&show_icons=true&locale=en" alt="ayush-eth" /></p>
 
+## 🏆 Github Stats
+<p align="left">
+<a href="https://github.com/TheArchitect19/github-readme-stats"><img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=TheArchitect19&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"></a>
+<a href="https://git.io/streak-stats"><img align="right" height="300px" width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=TheArchitect19&theme=midnight-purple&hide_border=true&fire=F98404&ring=F98404"></a>
+ <a href="https://quine.sh/profile/TheArchitect19"><img src="https://stats.quine.sh/TheArchitect19/github?theme=dark" alt="TheArchitect19's GitHub stats" width="400px"></a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheArchitect19&exclude_repo=NeetCode-150&theme=tokyonight">
+</p>
+
 ## Watch my contributions get eaten by a snake 🐍
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/TheArchitect19/snakegame/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/TheArchitect19/snakegame/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
 ![snake gif](https://github.com/TheArchitect19/Actions/blob/output/github-contribution-grid-snake.svg)
