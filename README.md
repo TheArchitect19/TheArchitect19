@@ -38,5 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-eth&show_icons=true&locale=en" alt="ayush-eth" /></p>
 
 ## Watch my contributions get eaten by a snake 🐍
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/Ayush-eth/snakegame/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Ayush-eth/snakegame/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
+![github contribution grid snake animation](https://raw.githubusercontent.com/TheArchitect19/snakegame/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/TheArchitect19/snakegame/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![snake gif](https://github.com/TheArchitect19/TheArchitect19/blob/output/github-contribution-grid-snake.gif)
