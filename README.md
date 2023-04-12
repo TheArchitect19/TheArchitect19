@@ -42,7 +42,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheArchitect19&exclude_repo=NeetCode-150&theme=tokyonight">
 </p>
 
-## Watch my contributions get eaten by a snake 🐍
+<p>## Watch my contributions get eaten by a snake 🐍
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/TheArchitect19/snakegame/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/TheArchitect19/snakegame/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
-![snake gif](https://github.com/TheArchitect19/Actions/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TheArchitect19/Actions/blob/output/github-contribution-grid-snake.svg)</p>
 <!-- ![snake gif](https://github.com/TheArchitect19/TheArchitect19/blob/output/github-contribution-grid-snake.gif) -->
