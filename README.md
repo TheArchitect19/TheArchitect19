@@ -321,7 +321,7 @@ adopted by:    The Chatterjee Group
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/medal2.png" width="48"/>
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="48"/>
 <br/><sub><b>FLAGSHIP</b></sub>
 <br/><b>Quper</b>
 <br/><sub>used by TCG + Cricut</sub>
