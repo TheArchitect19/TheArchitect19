@@ -1,119 +1,66 @@
-<!-- ─── HEADER ─── -->
+<!-- ──────────────────────────────────────────────────────────────────── -->
+<!--                                                                      -->
+<!--   AYUSH KUMAR · 001                                                  -->
+<!--   Last edited: 2026                                                  -->
+<!--                                                                      -->
+<!-- ──────────────────────────────────────────────────────────────────── -->
+
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Ayush%20Kumar&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Architect%20%7C%20Open%20Source%20Contributor&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
-
-</div>
-
-<div align="center">
-
-  [![Gmail](https://img.shields.io/badge/ayush.krsh9@gmail.com-0d1117?style=flat&logo=gmail&logoColor=ea4335)](mailto:ayush.krsh9@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/ayushkumar1907-0d1117?style=flat&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/ayushkumar1907)
-  [![LeetCode](https://img.shields.io/badge/ayush--eth-0d1117?style=flat&logo=leetcode&logoColor=ffa116)](https://leetcode.com/ayush-eth)
-  [![Codeforces](https://img.shields.io/badge/plutus.10-0d1117?style=flat&logo=codeforces&logoColor=1f8acb)](https://codeforces.com/profile/plutus.10)
-  [![CodeChef](https://img.shields.io/badge/ayush600b-0d1117?style=flat&logo=codechef&logoColor=5b4638)](https://www.codechef.com/users/ayush600b)
-
-</div>
-
-<br/>
-
-<!-- ─── ABOUT ─── -->
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   > whoami                                                           ║
-║   Backend engineer who thinks in systems, writes in Go & Python,     ║
-║   and ships things that scale. ICPC Regionalist. Open source         ║
-║   contributor. Currently building AI-powered platforms at Steps AI.   ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+                                                                       
+   █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗     ██╗  ██╗██████╗     
+  ██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║     ██║ ██╔╝██╔══██╗    
+  ███████║ ╚████╔╝ ██║   ██║███████╗███████║     █████╔╝ ██████╔╝    
+  ██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║     ██╔═██╗ ██╔══██╗    
+  ██║  ██║   ██║   ╚██████╔╝███████║██║  ██║     ██║  ██╗██║  ██║    
+  ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝    
+                                                                       
+  ─────────────────────────────────────────────────────────────────    
+   engineer · systems thinker · ships things that don't break          
+  ─────────────────────────────────────────────────────────────────    
 ```
-
-<br/>
-
-<!-- ─── HIGHLIGHTS ─── -->
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-<img src="https://img.icons8.com/fluency/48/trophy.png" width="36" />
-<br/><b>ICPC Regionalist '23</b>
-<br/><sub>National Rank 73</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/fluency/48/code.png" width="36" />
-<br/><b>LeetCode Top 7%</b>
-<br/><sub>Global Ranking</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/fluency/48/launched-rocket.png" width="36" />
-<br/><b>10,000+ Users</b>
-<br/><sub>Scaled @ AskSenior</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/fluency/48/blockchain-technology.png" width="36" />
-<br/><b>Hack-O-Octo 1.0</b>
-<br/><sub>Winner (Blockchain)</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ─── EXPERIENCE ─── -->
-
-## 🏢 Where I've Built Things
-
-<details open>
-<summary><b>AI Engineer / Platform Engineer</b> · Steps AI · <code>Oct 2025 → Present</code></summary>
-<br/>
-
-> Kubernetes ingress hardening · Agentic AI workflows for Shopify (LangChain + LangGraph) · Production WhatsApp chatbot with AI agents · Multi-tenant AI workspace with RBAC & agent lifecycle management
-
-</details>
-
-<details>
-<summary><b>Software Development Engineer</b> · Xequalto Analytics · <code>Aug 2024 → Oct 2025</code></summary>
-<br/>
-
-> AI-powered Redshift Health Assistant · 40% query performance boost · FinOps platform with real-time cost insights · Redis connection pooling · Binary encoding reducing payload 40% · Protobuf integration (60% serialization improvement)
-
-</details>
-
-<br/>
-
-<!-- ─── TECH STACK ─── -->
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-| Domain | Technologies |
-|:---:|:---|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Go Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **AI / ML** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=langchain&logoColor=white) |
 
 </div>
 
+<p align="center">
+  <a href="mailto:ayush.krsh9@gmail.com"><img src="https://img.shields.io/badge/-mail-000000?style=for-the-badge&logoColor=white&labelColor=000000" /></a>
+  <a href="https://linkedin.com/in/ayushkumar1907"><img src="https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logoColor=white&labelColor=000000" /></a>
+  <a href="https://leetcode.com/ayush-eth"><img src="https://img.shields.io/badge/-leetcode-000000?style=for-the-badge&logoColor=white&labelColor=000000" /></a>
+  <a href="https://codeforces.com/profile/plutus.10"><img src="https://img.shields.io/badge/-codeforces-000000?style=for-the-badge&logoColor=white&labelColor=000000" /></a>
+</p>
+
 <br/>
 
-<!-- ─── PROJECTS ─── -->
-
-## 🔨 Featured Project
+---
 
 <table>
 <tr>
-<td>
+<td width="55%" valign="top">
 
-### 🧑‍⚖️ Online Judge
-> **Node.js · Docker · AWS · Bash**
+### `// the way I build`
 
-A competitive programming platform with microservice architecture — separate auth, submission, and judging services. Docker-sandboxed execution with CPU/memory limits. Async submission pipeline (enqueue → run → verdict → persist). REST APIs documented with OpenAPI/Swagger.
+I build backend systems that handle real load — not toy demos.
+
+The work I'm proudest of usually looks boring from the outside: a sharded write path that doesn't fall over at 1B rows. A workflow engine that uses Kahn's algorithm because cycles are bugs, not features. A tokenizer written from scratch because I wanted to *actually* understand BPE, not import it.
+
+I don't care about being right. I care about systems that stay up at 3am.
+
+</td>
+<td width="45%" valign="top">
+
+### `// currently`
+
+```
+┌─────────────────────────────────────┐
+│                                     │
+│  ▸ steps ai · platform engineer     │
+│  ▸ shipping agent infrastructure    │
+│  ▸ training a 300M param SLM        │
+│  ▸ writing more, talking less       │
+│                                     │
+└─────────────────────────────────────┘
+```
 
 </td>
 </tr>
@@ -121,51 +68,197 @@ A competitive programming platform with microservice architecture — separate a
 
 <br/>
 
-<!-- ─── OPEN SOURCE ─── -->
+---
 
-## 🌍 Open Source
+## `01 — work`
+
+```
+╭─ STEPS AI ─────────────────────────────────  oct '25 → present ─╮
+│                                                                  │
+│   AI Engineer · Platform Engineer                                │
+│                                                                  │
+│   ▸  DAG-based AI workflow engine — Kahn's topological sort,     │
+│      per-step error policies, DLQ, 139+ integrations             │
+│                                                                  │
+│   ▸  Multi-tenant agent hosting — tenants connect via CNAME,     │
+│      platform provisions path-scoped K8s routes per tenant       │
+│                                                                  │
+│   ▸  Human-in-the-loop interrupt system — SQS for handoff,       │
+│      WebSocket for support agent, SSE for end-user updates       │
+│                                                                  │
+│   ▸  Hardened K8s ingress with TLS, env isolation, dynamic       │
+│      tenant provisioning                                         │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
+
+╭─ XEQUALTO ANALYTICS ───────────────────────  aug '24 → oct '25 ─╮
+│                                                                  │
+│   Software Development Engineer                                  │
+│                                                                  │
+│   ▸  ETL pipeline → ingest 1B+ rows, batched, fault-tolerant     │
+│   ▸  Hash-based horizontal sharding in PostgreSQL → ClickHouse   │
+│      replication for OLAP reads, fan-out aggregation             │
+│   ▸  Protocol Buffers across services → 60% serialization gain   │
+│   ▸  Custom binary encoding in hot paths → 40% payload cut       │
+│   ▸  Redis connection pooling for burst traffic                  │
+│   ▸  GraphQL APIs for client-driven data querying                │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
+
+╭─ GOKAPTURE ────────────────────────────────  feb '23 → aug '24 ─╮
+│                                                                  │
+│   Software Engineer Intern                                       │
+│                                                                  │
+│   ▸  Go service powering generative AI image pipeline —          │
+│      goroutine concurrency tuning, hot-path latency reduction    │
+│   ▸  Built internal branch preview deploy system in Go           │
+│      (Vercel-style, but for internal infra)                      │
+│   ▸  Local CI sandbox with `act` — minutes → seconds feedback    │
+│   ▸  ngrok tunnels for webhook + 3rd-party integration testing   │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
+```
+
+<br/>
+
+## `02 — what I'm building`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ▸ SLM · LinkedIn Post Generator
+
+```
+language       PyTorch + Metal/MPS
+parameters     300M
+architecture   decoder-only · custom hybrid
+positional     RoPE
+attention      multi-head causal · KV-cache
+ffn            SwiGLU
+norm           Pre-RMSNorm
+tokenizer      custom BPE (from scratch)
+training       bf16 mixed-precision · M5 chip
+```
+
+Built ground-up. No HuggingFace weights, no pretrained base. Tokenizer, transformer blocks, training loop — everything written from zero.
+
+</td>
+<td width="50%" valign="top">
+
+#### ▸ Quper · FinOps Platform
+
+```
+status         in production
+stack          go · postgres · clickhouse
+role           led product team end-to-end
+adopted by     The Chatterjee Group
+               (45-country conglomerate)
+               Cricut (US consumer tech)
+```
+
+Real-time cloud cost intelligence. Took it from architecture to delivery. Currently running inside enterprise infra.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `03 — stack`
+
+```
+┌─ languages ──────────────────────────────────────────────────────────┐
+   go      python      typescript      c++      java      c
+└──────────────────────────────────────────────────────────────────────┘
+
+┌─ backend ────────────────────────────────────────────────────────────┐
+   nestjs      go fiber      fastapi      node.js      graphql
+└──────────────────────────────────────────────────────────────────────┘
+
+┌─ data ───────────────────────────────────────────────────────────────┐
+   postgresql      clickhouse      redis      mongodb      dynamodb
+└──────────────────────────────────────────────────────────────────────┘
+
+┌─ infra ──────────────────────────────────────────────────────────────┐
+   kubernetes      argocd      docker      ecr      oidc      aws
+└──────────────────────────────────────────────────────────────────────┘
+
+┌─ ai · ml ────────────────────────────────────────────────────────────┐
+   pytorch      langchain      langgraph      metal/mps      bpe
+└──────────────────────────────────────────────────────────────────────┘
+
+┌─ protocols ──────────────────────────────────────────────────────────┐
+   protobuf      websocket      sse      sqs      rest      grpc
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+## `04 — proof of work`
+
+<table>
+<tr>
+<td align="center" width="25%">
+<sub>COMPETITIVE</sub><br/>
+<b>ICPC '23</b><br/>
+<sub>regionalist · rank 73</sub>
+</td>
+<td align="center" width="25%">
+<sub>ALGORITHMS</sub><br/>
+<b>LeetCode</b><br/>
+<sub>top 7% globally</sub>
+</td>
+<td align="center" width="25%">
+<sub>SCALE</sub><br/>
+<b>10K+ users</b><br/>
+<sub>asksenior backend</sub>
+</td>
+<td align="center" width="25%">
+<sub>HACKATHON</sub><br/>
+<b>Hack-O-Octo</b><br/>
+<sub>winner · blockchain</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `05 — open source`
+
+```
+keploy       →  refactored core modules to NestJS, built repo analytics
+evalai       →  100+ tests added, postgres upgrade, full API docs rewrite
+```
+
+<br/>
+
+---
+
+## `06 — telemetry`
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheArchitect19&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=8b949e&ring_color=ffffff" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=TheArchitect19&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
 
-| Project | Contribution |
-|:---:|:---|
-| **[Keploy](https://github.com/keploy/keploy)** | Refactored core modules to NestJS, built repo analytics tooling |
-| **[CloudCV / EvalAI](https://github.com/Cloud-CV/EvalAI)** | 100+ tests added, PostgreSQL upgrade, comprehensive API docs |
-
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheArchitect19&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" />
 </div>
 
 <br/>
 
-<!-- ─── GITHUB STATS ─── -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TheArchitect19&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e&ring_color=6e40c9" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=TheArchitect19&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheArchitect19&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=8b949e&exclude_repo=NeetCode-150" />
-</div>
-
-<br/>
-
-<!-- ─── GRAPH ─── -->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheArchitect19&bg_color=0d1117&color=6e40c9&line=6e40c9&point=e6edf3&area=true&area_color=6e40c9&hide_border=true" width="95%" />
-</div>
-
-<br/>
-
-<!-- ─── FOOTER ─── -->
+---
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%" />
+```
+─────────────────────────────────────────────
+        if you build cool things,
+            we should talk.
+─────────────────────────────────────────────
+```
+
+<sub>last commit: just now · always shipping</sub>
 
 </div>
