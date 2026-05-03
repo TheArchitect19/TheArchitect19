@@ -4,18 +4,19 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=42&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Ayush+Kumar;Backend+%C2%B7+Platform+%C2%B7+AI+Engineer;Building+systems+that+stay+up+at+3am" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Ayush+Kumar;Backend+%E2%80%A2+Platform+%E2%80%A2+AI+Engineer;Building+systems+that+stay+up+at+3am;Shipping+%E2%80%A2+Always" alt="typing" />
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STATUS-shipping_in_production-white?style=flat-square&labelColor=000000&color=white">
-  <img src="https://img.shields.io/badge/STATUS-shipping_in_production-black?style=flat-square&labelColor=ffffff&color=black" />
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-shipping_in_production-white?style=flat-square&labelColor=000000&color=00C896" />
 &nbsp;
-<img src="https://img.shields.io/badge/BASED-Hyderabad,_IN-blue?style=flat-square&labelColor=000000&color=blue" />
+<img src="https://img.shields.io/badge/BASED-Hyderabad,_IN-blue?style=flat-square&labelColor=000000&color=4A90E2" />
 &nbsp;
-<img src="https://img.shields.io/badge/OPEN_TO-senior_roles-success?style=flat-square&labelColor=000000&color=00C896" />
+<img src="https://img.shields.io/badge/OPEN_TO-senior_roles-orange?style=flat-square&labelColor=000000&color=FF6B35" />
 
 <br/><br/>
 
@@ -53,12 +54,14 @@ I don't care about being right. I care about systems that stay up at 3am.
 </td>
 <td width="40%" valign="top">
 
-### `// currently`
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+</div>
 
 ```yaml
 role:     platform engineer
 company:  Steps AI
-shipping: agent infrastructure
+shipping: agent infra
 training: 300M param SLM
 mood:     write more, talk less
 ```
@@ -77,7 +80,7 @@ mood:     write more, talk less
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/32/briefcase.png" width="22"/> &nbsp;`01 — work`
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;`01 — work`
 
 <br/>
 
@@ -85,7 +88,7 @@ mood:     write more, talk less
 <tr>
 <td width="80" align="center" valign="top">
 <br/>
-<img src="https://img.icons8.com/fluency/64/artificial-intelligence.png" width="56"/>
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60"/>
 </td>
 <td valign="top">
 
@@ -112,7 +115,7 @@ mood:     write more, talk less
 <tr>
 <td width="80" align="center" valign="top">
 <br/>
-<img src="https://img.icons8.com/fluency/64/database.png" width="56"/>
+<img src="https://img.icons8.com/fluency/96/database.png" width="60"/>
 </td>
 <td valign="top">
 
@@ -141,7 +144,7 @@ mood:     write more, talk less
 <tr>
 <td width="80" align="center" valign="top">
 <br/>
-<img src="https://img.icons8.com/fluency/64/source-code.png" width="56"/>
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="60"/>
 </td>
 <td valign="top">
 
@@ -172,21 +175,21 @@ mood:     write more, talk less
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/32/rocket.png" width="22"/> &nbsp;`02 — what I'm building`
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> &nbsp;`02 — what I'm building`
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<div align="center">
-
-<img src="https://img.icons8.com/fluency/96/brain.png" width="64"/>
+<img src="https://img.icons8.com/fluency/96/brain.png" width="72"/>
 
 ### **SLM** · LinkedIn Post Generator
 
-</div>
+<img src="https://img.shields.io/badge/300M_params-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=FFFFFF" />
+&nbsp;
+<img src="https://img.shields.io/badge/from_scratch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 
 ```yaml
 parameters:    300M
@@ -202,15 +205,15 @@ training:      bf16 · MPS · Apple M5
 > Built ground-up. No HuggingFace weights, no pretrained base. Tokenizer, transformer blocks, training loop — everything written from zero.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<div align="center">
-
-<img src="https://img.icons8.com/fluency/96/financial-growth.png" width="64"/>
+<img src="https://img.icons8.com/fluency/96/financial-growth.png" width="72"/>
 
 ### **Quper** · FinOps Platform
 
-</div>
+<img src="https://img.shields.io/badge/in_production-00C896?style=flat-square&logo=googlecloud&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/enterprise_grade-FF6B35?style=flat-square&logo=cloudfoundry&logoColor=white" />
 
 ```yaml
 status:        in production
@@ -237,7 +240,7 @@ adopted by:    The Chatterjee Group
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/32/maintenance.png" width="22"/> &nbsp;`03 — stack`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;`03 — stack`
 
 <div align="center">
 
@@ -308,38 +311,38 @@ adopted by:    The Chatterjee Group
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/32/medal.png" width="22"/> &nbsp;`04 — proof of work`
+## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28"/> &nbsp;`04 — proof of work`
 
 <br/>
 
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/64/leadership.png" width="44"/>
+<img src="https://img.icons8.com/fluency/96/leadership.png" width="48"/>
 <br/><sub><b>FLAGSHIP</b></sub>
 <br/><b>Quper</b>
 <br/><sub>used by TCG + Cricut</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/64/trophy.png" width="44"/>
+<img src="https://img.icons8.com/fluency/96/trophy.png" width="48"/>
 <br/><sub><b>COMPETITIVE</b></sub>
 <br/><b>ICPC '23</b>
 <br/><sub>regionalist · rank 73</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/64/code.png" width="44"/>
+<img src="https://img.icons8.com/fluency/96/code.png" width="48"/>
 <br/><sub><b>ALGORITHMS</b></sub>
 <br/><b>LeetCode</b>
 <br/><sub>top 7% globally</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/64/launched-rocket.png" width="44"/>
+<img src="https://img.icons8.com/fluency/96/launched-rocket.png" width="48"/>
 <br/><sub><b>SCALE</b></sub>
 <br/><b>10K+ users</b>
 <br/><sub>asksenior backend</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/64/blockchain-technology.png" width="44"/>
+<img src="https://img.icons8.com/fluency/96/blockchain-technology.png" width="48"/>
 <br/><sub><b>HACKATHON</b></sub>
 <br/><b>Hack-O-Octo</b>
 <br/><sub>winner · blockchain</sub>
@@ -357,13 +360,13 @@ adopted by:    The Chatterjee Group
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/32/github.png" width="22"/> &nbsp;`05 — open source`
+## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="28"/> &nbsp;`05 — open source`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.icons8.com/fluency/48/test-tube.png" width="32" align="left" style="margin-right:10px"/>
+<img src="https://img.icons8.com/fluency/64/test-tube.png" width="40" align="left" style="margin-right:10px"/>
 
 #### [Keploy](https://github.com/keploy/keploy)
 Refactored core modules to NestJS, built repo analytics tooling for the API testing platform.
@@ -371,7 +374,7 @@ Refactored core modules to NestJS, built repo analytics tooling for the API test
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.icons8.com/fluency/48/cloud-development.png" width="32" align="left" style="margin-right:10px"/>
+<img src="https://img.icons8.com/fluency/64/cloud-development.png" width="40" align="left" style="margin-right:10px"/>
 
 #### [EvalAI · CloudCV](https://github.com/Cloud-CV/EvalAI)
 100+ tests added, full PostgreSQL upgrade, comprehensive API documentation rewrite.
@@ -390,16 +393,16 @@ Refactored core modules to NestJS, built repo analytics tooling for the API test
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/32/combo-chart.png" width="22"/> &nbsp;`06 — telemetry`
+## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"/> &nbsp;`06 — telemetry`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TheArchitect19&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=8b949e&ring_color=ffffff" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=TheArchitect19&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TheArchitect19&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=00C896&text_color=8b949e&ring_color=00C896" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=TheArchitect19&theme=transparent&hide_border=true&ring=00C896&fire=FF6B35&currStreakLabel=00C896&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheArchitect19&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheArchitect19&bg_color=00000000&color=00C896&line=00C896&point=ffffff&area=true&area_color=00C896&hide_border=true" />
 
 <br/><br/>
 
@@ -413,16 +416,9 @@ Refactored core modules to NestJS, built repo analytics tooling for the API test
 
 <div align="center">
 
-```
-─────────────────────────────────────────────
-        if you build cool things,
-            we should talk.
-─────────────────────────────────────────────
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=if%20you%20build%20cool%20things,%20we%20should%20talk.&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=TheArchitect19&label=PROFILE+VIEWS&color=000000&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=TheArchitect19&label=PROFILE+VIEWS&color=00C896&style=flat-square" />
 
 <sub>last commit: just now &nbsp;·&nbsp; always shipping</sub>
 
