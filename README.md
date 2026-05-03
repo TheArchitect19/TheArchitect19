@@ -6,17 +6,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Ayush+Kumar;Backend+%E2%80%A2+Platform+%E2%80%A2+AI+Engineer;Building+systems+that+stay+up+at+3am;Shipping+%E2%80%A2+Always" alt="typing" />
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 <br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-shipping_in_production-white?style=flat-square&labelColor=000000&color=00C896" />
 &nbsp;
 <img src="https://img.shields.io/badge/BASED-Hyderabad,_IN-blue?style=flat-square&labelColor=000000&color=4A90E2" />
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN_TO-senior_roles-orange?style=flat-square&labelColor=000000&color=FF6B35" />
 
 <br/><br/>
 
@@ -26,11 +20,8 @@
 <a href="https://linkedin.com/in/ayushkumar1907">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/ayush-eth">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-<a href="https://codeforces.com/profile/plutus.10">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+<a href="https://github.com/TheArchitect19">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -47,7 +38,7 @@
 
 I build backend systems that handle real load — not toy demos.
 
-The work I'm proudest of usually looks boring from the outside: a sharded write path that doesn't fall over at **1B rows**, a workflow engine that uses **Kahn's algorithm** because cycles are bugs not features, a **300M parameter SLM** I trained from scratch on my laptop because I wanted to *actually* understand transformers — not import them.
+The work I'm proudest of usually looks boring from the outside: a sharded write path that doesn't fall over at **1B rows**, a workflow engine that uses **Kahn's algorithm** because cycles are bugs not features, a **300M parameter SLM model** I trained from scratch on my laptop because I wanted to *actually* understand transformers — not import them.
 
 I don't care about being right. I care about systems that stay up at 3am.
 
@@ -185,7 +176,7 @@ mood:     write more, talk less
 
 <img src="https://img.icons8.com/fluency/96/brain.png" width="72"/>
 
-### **SLM** · LinkedIn Post Generator
+### **SLM Model** · LinkedIn Post Generator
 
 <img src="https://img.shields.io/badge/300M_params-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=FFFFFF" />
 &nbsp;
