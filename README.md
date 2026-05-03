@@ -172,7 +172,9 @@ mood:     write more, talk less
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
+
+<div align="center">
 
 <img src="https://img.icons8.com/fluency/96/brain.png" width="72"/>
 
@@ -181,6 +183,10 @@ mood:     write more, talk less
 <img src="https://img.shields.io/badge/300M_params-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=FFFFFF" />
 &nbsp;
 <img src="https://img.shields.io/badge/from_scratch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+
+</div>
+
+<br/>
 
 ```yaml
 parameters:    300M
@@ -196,15 +202,21 @@ training:      bf16 · MPS · Apple M5
 > Built ground-up. No HuggingFace weights, no pretrained base. Tokenizer, transformer blocks, training loop — everything written from zero.
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/financial-growth.png" width="72"/>
+<div align="center">
+
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="72"/>
 
 ### **Quper** · FinOps Platform
 
 <img src="https://img.shields.io/badge/in_production-00C896?style=flat-square&logo=googlecloud&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/enterprise_grade-FF6B35?style=flat-square&logo=cloudfoundry&logoColor=white" />
+
+</div>
+
+<br/>
 
 ```yaml
 status:        in production
